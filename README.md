@@ -32,8 +32,16 @@ The primary aim of the game is to attain a hand value of 21 or come as close to 
 
 Just type the following into your terminal.
 
-## Get Started
+## Getting Started
 
 Run `javac main.java` to compile the code.
 
 To run the program, execute `java main.java`.
+
+## Contributing<a name="contributing"></a>
+
+I welcome contributions and suggestions from the community. If you have ideas for improvements, new features, or bug fixes, please feel free to open an issue or submit a pull request.
+
+## License<a name="license"></a>
+
+This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this software.
